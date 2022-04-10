@@ -1,4 +1,6 @@
 # Facemesh
 
 ### Live Mode
-https://facemesh.tiiny.site/
+
+mode 1 : https://facemesh.tiiny.site/
+mode 2 : https://facemesh.vercel.app/
